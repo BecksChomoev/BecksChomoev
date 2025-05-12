@@ -1,7 +1,7 @@
-## Hi 👋! My name is Becks and I'm a Software Engineer 🎓
+## Hi 👋! My name is Becks and I'm a Software Engineer & CS @ NLU
 
-I’m passionate about software development, technology, and creating intuitive digital experiences. My skills span across web and mobile development, including full-stack applications and UX/UI design. I'm always eager to collaborate on exciting projects and continually expand my expertise!
+I am a lifelong learner and motivated AI Software Engineer with extensive experience across a wide spectrum of web-based, mobile, and client-server applications. My expertise spans the entire System Development Life Cycle, including designing and developing. I thrive in a stable yet dynamic work environment and am committed to bringing a high level of dedication, motivation, and responsibility to every project!
 
 📫 **Contact Me:**
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/becks-chomoev)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chomoevbeksultan@gmail.com)0
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beckschomoev)
